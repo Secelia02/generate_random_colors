@@ -9,3 +9,5 @@ function newBackground() {
   let changeColor = document.getElementById("changeColor")
   changeColor.style.backgroundColor = `rgb(${randomNum1}, ${randomNum2}, ${randomNum3})`
 }
+
+//Come back to this code to figure out how to make a loop to continue changing the color
