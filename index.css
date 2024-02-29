@@ -1,0 +1,25 @@
+#changeColor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0; /* Set a default background color */
+}
+
+
+
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff; /* Button color */
+  color: #fff; /* Text color */
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #0056b3; /* Button color on hover */
+}
